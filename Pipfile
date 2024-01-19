@@ -9,8 +9,10 @@ pandas = "*"
 matplotlib = "*"
 scipy = "*"
 seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
