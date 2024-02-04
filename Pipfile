@@ -10,6 +10,8 @@ matplotlib = "*"
 scipy = "*"
 seaborn = "*"
 statsmodels = "*"
+python-docx = "*"
+plotly = "*"
 
 [dev-packages]
 ipykernel = "*"
